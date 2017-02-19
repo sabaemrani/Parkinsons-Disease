@@ -1,1 +1,1 @@
-# Parkinson-s-disease-diagnosis-and-prognosis-using-multi-task-learning-
+No commercial use is allowed from the material in this repository.
