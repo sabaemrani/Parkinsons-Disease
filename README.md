@@ -1,1 +1,1 @@
-No commercial use is allowed from the material in this repository.
+No commercial use of the material in this repository is allowed.
