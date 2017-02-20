@@ -2,5 +2,5 @@
 
 Data is downloaded from http://www.ppmi-info.org/. 
 
-The code uses MALSAR package availabel at: http://www.public.asu.edu/~jye02/Software/MALSAR/. 
+The code uses MALSAR package available at: http://www.public.asu.edu/~jye02/Software/MALSAR/. 
 
