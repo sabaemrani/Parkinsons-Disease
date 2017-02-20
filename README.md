@@ -1,4 +1,4 @@
-# Implementation of prediction of disease status and biomarker identification using multi taks learning
+# Prognosis and Diagnosis of Parkinson's Disease Using Multi-Task Learning
 
 Data is downloaded from http://www.ppmi-info.org/. 
 
